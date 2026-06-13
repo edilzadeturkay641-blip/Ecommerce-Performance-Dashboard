@@ -1,0 +1,3611 @@
+[
+    {
+        "customer_id": 100,
+        "name": "Customer_100",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 53,
+        "membership_type": "Premium",
+        "registration_date": "2026-09-09"
+    },
+    {
+        "customer_id": 101,
+        "name": "Customer_101",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 21,
+        "membership_type": "VIP",
+        "registration_date": "2026-12-11"
+    },
+    {
+        "customer_id": 102,
+        "name": "Customer_102",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "Premium",
+        "registration_date": "2025-02-14"
+    },
+    {
+        "customer_id": 103,
+        "name": "Customer_103",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 43,
+        "membership_type": "Premium",
+        "registration_date": "2025-03-22"
+    },
+    {
+        "customer_id": 104,
+        "name": "Customer_104",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 22,
+        "membership_type": "Standard",
+        "registration_date": "2026-03-02"
+    },
+    {
+        "customer_id": 105,
+        "name": "Customer_105",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 55,
+        "membership_type": "VIP",
+        "registration_date": "2025-07-21"
+    },
+    {
+        "customer_id": 106,
+        "name": "Customer_106",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 35,
+        "membership_type": "VIP",
+        "registration_date": "2025-05-14"
+    },
+    {
+        "customer_id": 107,
+        "name": "Customer_107",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 29,
+        "membership_type": "Standard",
+        "registration_date": "2027-06-06"
+    },
+    {
+        "customer_id": 108,
+        "name": "Customer_108",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 52,
+        "membership_type": "VIP",
+        "registration_date": "2027-04-22"
+    },
+    {
+        "customer_id": 109,
+        "name": "Customer_109",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 48,
+        "membership_type": "VIP",
+        "registration_date": "2027-02-26"
+    },
+    {
+        "customer_id": 110,
+        "name": "Customer_110",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 49,
+        "membership_type": "VIP",
+        "registration_date": "2025-02-19"
+    },
+    {
+        "customer_id": 111,
+        "name": "Customer_111",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 57,
+        "membership_type": "Standard",
+        "registration_date": "2027-01-10"
+    },
+    {
+        "customer_id": 112,
+        "name": "Customer_112",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2026-10-03"
+    },
+    {
+        "customer_id": 113,
+        "name": "Customer_113",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 42,
+        "membership_type": "Standard",
+        "registration_date": "2027-01-03"
+    },
+    {
+        "customer_id": 114,
+        "name": "Customer_114",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 35,
+        "membership_type": "Premium",
+        "registration_date": "2027-04-10"
+    },
+    {
+        "customer_id": 115,
+        "name": "Customer_115",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 64,
+        "membership_type": "Premium",
+        "registration_date": "2027-01-07"
+    },
+    {
+        "customer_id": 116,
+        "name": "Customer_116",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 53,
+        "membership_type": "Premium",
+        "registration_date": "2026-04-15"
+    },
+    {
+        "customer_id": 117,
+        "name": "Customer_117",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 53,
+        "membership_type": "Premium",
+        "registration_date": "2026-05-31"
+    },
+    {
+        "customer_id": 118,
+        "name": "Customer_118",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "Standard",
+        "registration_date": "2027-01-23"
+    },
+    {
+        "customer_id": 119,
+        "name": "Customer_119",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 32,
+        "membership_type": "Standard",
+        "registration_date": "2027-03-02"
+    },
+    {
+        "customer_id": 120,
+        "name": "Customer_120",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 48,
+        "membership_type": "Premium",
+        "registration_date": "2026-12-28"
+    },
+    {
+        "customer_id": 121,
+        "name": "Customer_121",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 36,
+        "membership_type": "Standard",
+        "registration_date": "2027-06-06"
+    },
+    {
+        "customer_id": 122,
+        "name": "Customer_122",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 32,
+        "membership_type": "Premium",
+        "registration_date": "2025-02-07"
+    },
+    {
+        "customer_id": 123,
+        "name": "Customer_123",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 39,
+        "membership_type": "Premium",
+        "registration_date": "2025-02-20"
+    },
+    {
+        "customer_id": 124,
+        "name": "Customer_124",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 20,
+        "membership_type": "Premium",
+        "registration_date": "2026-01-14"
+    },
+    {
+        "customer_id": 125,
+        "name": "Customer_125",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 53,
+        "membership_type": "Premium",
+        "registration_date": "2025-05-31"
+    },
+    {
+        "customer_id": 126,
+        "name": "Customer_126",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 39,
+        "membership_type": "Standard",
+        "registration_date": "2027-06-05"
+    },
+    {
+        "customer_id": 127,
+        "name": "Customer_127",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 61,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-20"
+    },
+    {
+        "customer_id": 128,
+        "name": "Customer_128",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 34,
+        "membership_type": "Premium",
+        "registration_date": "2025-08-10"
+    },
+    {
+        "customer_id": 129,
+        "name": "Customer_129",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 47,
+        "membership_type": "Standard",
+        "registration_date": "2025-09-08"
+    },
+    {
+        "customer_id": 130,
+        "name": "Customer_130",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 60,
+        "membership_type": "VIP",
+        "registration_date": "2026-11-11"
+    },
+    {
+        "customer_id": 131,
+        "name": "Customer_131",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 37,
+        "membership_type": "VIP",
+        "registration_date": "2026-01-11"
+    },
+    {
+        "customer_id": 132,
+        "name": "Customer_132",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 36,
+        "membership_type": "Premium",
+        "registration_date": "2026-04-05"
+    },
+    {
+        "customer_id": 133,
+        "name": "Customer_133",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 38,
+        "membership_type": "VIP",
+        "registration_date": "2026-12-01"
+    },
+    {
+        "customer_id": 134,
+        "name": "Customer_134",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 60,
+        "membership_type": "VIP",
+        "registration_date": "2025-02-16"
+    },
+    {
+        "customer_id": 135,
+        "name": "Customer_135",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 56,
+        "membership_type": "Premium",
+        "registration_date": "2026-06-12"
+    },
+    {
+        "customer_id": 136,
+        "name": "Customer_136",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 36,
+        "membership_type": "Premium",
+        "registration_date": "2027-05-25"
+    },
+    {
+        "customer_id": 137,
+        "name": "Customer_137",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 37,
+        "membership_type": "Standard",
+        "registration_date": "2026-05-25"
+    },
+    {
+        "customer_id": 138,
+        "name": "Customer_138",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 50,
+        "membership_type": "Standard",
+        "registration_date": "2025-09-12"
+    },
+    {
+        "customer_id": 139,
+        "name": "Customer_139",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 38,
+        "membership_type": "VIP",
+        "registration_date": "2026-04-22"
+    },
+    {
+        "customer_id": 140,
+        "name": "Customer_140",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 40,
+        "membership_type": "Standard",
+        "registration_date": "2025-01-13"
+    },
+    {
+        "customer_id": 141,
+        "name": "Customer_141",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 65,
+        "membership_type": "Standard",
+        "registration_date": "2027-01-03"
+    },
+    {
+        "customer_id": 142,
+        "name": "Customer_142",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 36,
+        "membership_type": "Standard",
+        "registration_date": "2025-10-05"
+    },
+    {
+        "customer_id": 143,
+        "name": "Customer_143",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "Premium",
+        "registration_date": "2027-04-05"
+    },
+    {
+        "customer_id": 144,
+        "name": "Customer_144",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "VIP",
+        "registration_date": "2025-10-29"
+    },
+    {
+        "customer_id": 145,
+        "name": "Customer_145",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 41,
+        "membership_type": "Standard",
+        "registration_date": "2025-05-27"
+    },
+    {
+        "customer_id": 146,
+        "name": "Customer_146",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 29,
+        "membership_type": "Standard",
+        "registration_date": "2025-05-18"
+    },
+    {
+        "customer_id": 147,
+        "name": "Customer_147",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "Standard",
+        "registration_date": "2026-11-21"
+    },
+    {
+        "customer_id": 148,
+        "name": "Customer_148",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 51,
+        "membership_type": "Premium",
+        "registration_date": "2025-10-21"
+    },
+    {
+        "customer_id": 149,
+        "name": "Customer_149",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-21"
+    },
+    {
+        "customer_id": 150,
+        "name": "Customer_150",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 55,
+        "membership_type": "Premium",
+        "registration_date": "2026-04-22"
+    },
+    {
+        "customer_id": 151,
+        "name": "Customer_151",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 42,
+        "membership_type": "Standard",
+        "registration_date": "2025-10-21"
+    },
+    {
+        "customer_id": 152,
+        "name": "Customer_152",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 36,
+        "membership_type": "Standard",
+        "registration_date": "2027-05-15"
+    },
+    {
+        "customer_id": 153,
+        "name": "Customer_153",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 49,
+        "membership_type": "Premium",
+        "registration_date": "2026-06-16"
+    },
+    {
+        "customer_id": 154,
+        "name": "Customer_154",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 23,
+        "membership_type": "Premium",
+        "registration_date": "2026-07-16"
+    },
+    {
+        "customer_id": 155,
+        "name": "Customer_155",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 47,
+        "membership_type": "Premium",
+        "registration_date": "2025-03-09"
+    },
+    {
+        "customer_id": 156,
+        "name": "Customer_156",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 28,
+        "membership_type": "Premium",
+        "registration_date": "2025-11-13"
+    },
+    {
+        "customer_id": 157,
+        "name": "Customer_157",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 63,
+        "membership_type": "Standard",
+        "registration_date": "2025-04-10"
+    },
+    {
+        "customer_id": 158,
+        "name": "Customer_158",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 27,
+        "membership_type": "Premium",
+        "registration_date": "2026-08-24"
+    },
+    {
+        "customer_id": 159,
+        "name": "Customer_159",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 54,
+        "membership_type": "VIP",
+        "registration_date": "2027-04-28"
+    },
+    {
+        "customer_id": 160,
+        "name": "Customer_160",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 50,
+        "membership_type": "Standard",
+        "registration_date": "2025-01-26"
+    },
+    {
+        "customer_id": 161,
+        "name": "Customer_161",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 51,
+        "membership_type": "Premium",
+        "registration_date": "2026-09-21"
+    },
+    {
+        "customer_id": 162,
+        "name": "Customer_162",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 57,
+        "membership_type": "VIP",
+        "registration_date": "2025-10-14"
+    },
+    {
+        "customer_id": 163,
+        "name": "Customer_163",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 50,
+        "membership_type": "Standard",
+        "registration_date": "2025-08-28"
+    },
+    {
+        "customer_id": 164,
+        "name": "Customer_164",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 35,
+        "membership_type": "Premium",
+        "registration_date": "2026-07-18"
+    },
+    {
+        "customer_id": 165,
+        "name": "Customer_165",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 49,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-13"
+    },
+    {
+        "customer_id": 166,
+        "name": "Customer_166",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 33,
+        "membership_type": "Standard",
+        "registration_date": "2025-02-16"
+    },
+    {
+        "customer_id": 167,
+        "name": "Customer_167",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 28,
+        "membership_type": "VIP",
+        "registration_date": "2026-07-09"
+    },
+    {
+        "customer_id": 168,
+        "name": "Customer_168",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 19,
+        "membership_type": "Standard",
+        "registration_date": "2026-09-16"
+    },
+    {
+        "customer_id": 169,
+        "name": "Customer_169",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 28,
+        "membership_type": "Premium",
+        "registration_date": "2025-10-14"
+    },
+    {
+        "customer_id": 170,
+        "name": "Customer_170",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 61,
+        "membership_type": "VIP",
+        "registration_date": "2025-05-17"
+    },
+    {
+        "customer_id": 171,
+        "name": "Customer_171",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "Standard",
+        "registration_date": "2026-11-19"
+    },
+    {
+        "customer_id": 172,
+        "name": "Customer_172",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 23,
+        "membership_type": "Standard",
+        "registration_date": "2025-12-25"
+    },
+    {
+        "customer_id": 173,
+        "name": "Customer_173",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 38,
+        "membership_type": "VIP",
+        "registration_date": "2025-12-14"
+    },
+    {
+        "customer_id": 174,
+        "name": "Customer_174",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 18,
+        "membership_type": "Standard",
+        "registration_date": "2026-03-24"
+    },
+    {
+        "customer_id": 175,
+        "name": "Customer_175",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 32,
+        "membership_type": "Premium",
+        "registration_date": "2026-11-22"
+    },
+    {
+        "customer_id": 176,
+        "name": "Customer_176",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 46,
+        "membership_type": "Standard",
+        "registration_date": "2026-11-16"
+    },
+    {
+        "customer_id": 177,
+        "name": "Customer_177",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 28,
+        "membership_type": "VIP",
+        "registration_date": "2025-12-24"
+    },
+    {
+        "customer_id": 178,
+        "name": "Customer_178",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 60,
+        "membership_type": "Standard",
+        "registration_date": "2025-09-02"
+    },
+    {
+        "customer_id": 179,
+        "name": "Customer_179",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 64,
+        "membership_type": "Standard",
+        "registration_date": "2026-03-20"
+    },
+    {
+        "customer_id": 180,
+        "name": "Customer_180",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 25,
+        "membership_type": "VIP",
+        "registration_date": "2025-10-22"
+    },
+    {
+        "customer_id": 181,
+        "name": "Customer_181",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2027-01-12"
+    },
+    {
+        "customer_id": 182,
+        "name": "Customer_182",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 58,
+        "membership_type": "VIP",
+        "registration_date": "2026-10-15"
+    },
+    {
+        "customer_id": 183,
+        "name": "Customer_183",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 59,
+        "membership_type": "Standard",
+        "registration_date": "2025-08-24"
+    },
+    {
+        "customer_id": 184,
+        "name": "Customer_184",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 22,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-23"
+    },
+    {
+        "customer_id": 185,
+        "name": "Customer_185",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 50,
+        "membership_type": "Standard",
+        "registration_date": "2025-09-12"
+    },
+    {
+        "customer_id": 186,
+        "name": "Customer_186",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 50,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-11"
+    },
+    {
+        "customer_id": 187,
+        "name": "Customer_187",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 54,
+        "membership_type": "Standard",
+        "registration_date": "2026-07-26"
+    },
+    {
+        "customer_id": 188,
+        "name": "Customer_188",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 32,
+        "membership_type": "VIP",
+        "registration_date": "2027-02-03"
+    },
+    {
+        "customer_id": 189,
+        "name": "Customer_189",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 37,
+        "membership_type": "Premium",
+        "registration_date": "2027-05-31"
+    },
+    {
+        "customer_id": 190,
+        "name": "Customer_190",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 20,
+        "membership_type": "VIP",
+        "registration_date": "2027-06-14"
+    },
+    {
+        "customer_id": 191,
+        "name": "Customer_191",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 54,
+        "membership_type": "Premium",
+        "registration_date": "2027-03-14"
+    },
+    {
+        "customer_id": 192,
+        "name": "Customer_192",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 60,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-24"
+    },
+    {
+        "customer_id": 193,
+        "name": "Customer_193",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 27,
+        "membership_type": "VIP",
+        "registration_date": "2025-03-11"
+    },
+    {
+        "customer_id": 194,
+        "name": "Customer_194",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 45,
+        "membership_type": "VIP",
+        "registration_date": "2025-07-10"
+    },
+    {
+        "customer_id": 195,
+        "name": "Customer_195",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 57,
+        "membership_type": "VIP",
+        "registration_date": "2026-11-30"
+    },
+    {
+        "customer_id": 196,
+        "name": "Customer_196",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 59,
+        "membership_type": "Standard",
+        "registration_date": "2026-06-24"
+    },
+    {
+        "customer_id": 197,
+        "name": "Customer_197",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 51,
+        "membership_type": "VIP",
+        "registration_date": "2026-07-09"
+    },
+    {
+        "customer_id": 198,
+        "name": "Customer_198",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 19,
+        "membership_type": "Standard",
+        "registration_date": "2025-09-06"
+    },
+    {
+        "customer_id": 199,
+        "name": "Customer_199",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 63,
+        "membership_type": "VIP",
+        "registration_date": "2025-09-27"
+    },
+    {
+        "customer_id": 200,
+        "name": "Customer_200",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-10"
+    },
+    {
+        "customer_id": 201,
+        "name": "Customer_201",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 35,
+        "membership_type": "Standard",
+        "registration_date": "2025-07-02"
+    },
+    {
+        "customer_id": 202,
+        "name": "Customer_202",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 34,
+        "membership_type": "Standard",
+        "registration_date": "2026-08-27"
+    },
+    {
+        "customer_id": 203,
+        "name": "Customer_203",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 47,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-20"
+    },
+    {
+        "customer_id": 204,
+        "name": "Customer_204",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 47,
+        "membership_type": "VIP",
+        "registration_date": "2026-09-27"
+    },
+    {
+        "customer_id": 205,
+        "name": "Customer_205",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 47,
+        "membership_type": "VIP",
+        "registration_date": "2027-06-01"
+    },
+    {
+        "customer_id": 206,
+        "name": "Customer_206",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 53,
+        "membership_type": "Premium",
+        "registration_date": "2026-12-19"
+    },
+    {
+        "customer_id": 207,
+        "name": "Customer_207",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 22,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-27"
+    },
+    {
+        "customer_id": 208,
+        "name": "Customer_208",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 48,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-24"
+    },
+    {
+        "customer_id": 209,
+        "name": "Customer_209",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 32,
+        "membership_type": "Premium",
+        "registration_date": "2025-02-14"
+    },
+    {
+        "customer_id": 210,
+        "name": "Customer_210",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 58,
+        "membership_type": "Premium",
+        "registration_date": "2025-08-13"
+    },
+    {
+        "customer_id": 211,
+        "name": "Customer_211",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 30,
+        "membership_type": "Standard",
+        "registration_date": "2025-02-24"
+    },
+    {
+        "customer_id": 212,
+        "name": "Customer_212",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 46,
+        "membership_type": "Premium",
+        "registration_date": "2027-01-08"
+    },
+    {
+        "customer_id": 213,
+        "name": "Customer_213",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 18,
+        "membership_type": "Premium",
+        "registration_date": "2027-03-19"
+    },
+    {
+        "customer_id": 214,
+        "name": "Customer_214",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 34,
+        "membership_type": "Standard",
+        "registration_date": "2025-06-16"
+    },
+    {
+        "customer_id": 215,
+        "name": "Customer_215",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 29,
+        "membership_type": "VIP",
+        "registration_date": "2026-07-19"
+    },
+    {
+        "customer_id": 216,
+        "name": "Customer_216",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 38,
+        "membership_type": "Standard",
+        "registration_date": "2025-04-27"
+    },
+    {
+        "customer_id": 217,
+        "name": "Customer_217",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 30,
+        "membership_type": "Standard",
+        "registration_date": "2027-03-10"
+    },
+    {
+        "customer_id": 218,
+        "name": "Customer_218",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 52,
+        "membership_type": "Premium",
+        "registration_date": "2026-03-26"
+    },
+    {
+        "customer_id": 219,
+        "name": "Customer_219",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 62,
+        "membership_type": "Premium",
+        "registration_date": "2027-03-13"
+    },
+    {
+        "customer_id": 220,
+        "name": "Customer_220",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 48,
+        "membership_type": "VIP",
+        "registration_date": "2026-08-02"
+    },
+    {
+        "customer_id": 221,
+        "name": "Customer_221",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 38,
+        "membership_type": "Premium",
+        "registration_date": "2025-10-25"
+    },
+    {
+        "customer_id": 222,
+        "name": "Customer_222",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 55,
+        "membership_type": "Premium",
+        "registration_date": "2027-03-08"
+    },
+    {
+        "customer_id": 223,
+        "name": "Customer_223",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 27,
+        "membership_type": "Premium",
+        "registration_date": "2026-09-13"
+    },
+    {
+        "customer_id": 224,
+        "name": "Customer_224",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 35,
+        "membership_type": "Premium",
+        "registration_date": "2026-11-14"
+    },
+    {
+        "customer_id": 225,
+        "name": "Customer_225",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 44,
+        "membership_type": "Standard",
+        "registration_date": "2025-09-21"
+    },
+    {
+        "customer_id": 226,
+        "name": "Customer_226",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 19,
+        "membership_type": "VIP",
+        "registration_date": "2026-09-26"
+    },
+    {
+        "customer_id": 227,
+        "name": "Customer_227",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 65,
+        "membership_type": "Premium",
+        "registration_date": "2025-08-18"
+    },
+    {
+        "customer_id": 228,
+        "name": "Customer_228",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 53,
+        "membership_type": "Premium",
+        "registration_date": "2026-02-15"
+    },
+    {
+        "customer_id": 229,
+        "name": "Customer_229",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 23,
+        "membership_type": "Premium",
+        "registration_date": "2025-01-02"
+    },
+    {
+        "customer_id": 230,
+        "name": "Customer_230",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 50,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-26"
+    },
+    {
+        "customer_id": 231,
+        "name": "Customer_231",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "Standard",
+        "registration_date": "2025-03-26"
+    },
+    {
+        "customer_id": 232,
+        "name": "Customer_232",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 40,
+        "membership_type": "Standard",
+        "registration_date": "2026-05-14"
+    },
+    {
+        "customer_id": 233,
+        "name": "Customer_233",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 60,
+        "membership_type": "Standard",
+        "registration_date": "2025-10-30"
+    },
+    {
+        "customer_id": 234,
+        "name": "Customer_234",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 51,
+        "membership_type": "Standard",
+        "registration_date": "2026-01-04"
+    },
+    {
+        "customer_id": 235,
+        "name": "Customer_235",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 23,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-23"
+    },
+    {
+        "customer_id": 236,
+        "name": "Customer_236",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 60,
+        "membership_type": "Premium",
+        "registration_date": "2025-05-07"
+    },
+    {
+        "customer_id": 237,
+        "name": "Customer_237",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 48,
+        "membership_type": "VIP",
+        "registration_date": "2025-11-22"
+    },
+    {
+        "customer_id": 238,
+        "name": "Customer_238",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2027-01-06"
+    },
+    {
+        "customer_id": 239,
+        "name": "Customer_239",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 27,
+        "membership_type": "Premium",
+        "registration_date": "2026-05-14"
+    },
+    {
+        "customer_id": 240,
+        "name": "Customer_240",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 23,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-20"
+    },
+    {
+        "customer_id": 241,
+        "name": "Customer_241",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 60,
+        "membership_type": "VIP",
+        "registration_date": "2025-05-31"
+    },
+    {
+        "customer_id": 242,
+        "name": "Customer_242",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 52,
+        "membership_type": "Standard",
+        "registration_date": "2025-07-10"
+    },
+    {
+        "customer_id": 243,
+        "name": "Customer_243",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 22,
+        "membership_type": "Premium",
+        "registration_date": "2026-12-06"
+    },
+    {
+        "customer_id": 244,
+        "name": "Customer_244",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 35,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-27"
+    },
+    {
+        "customer_id": 245,
+        "name": "Customer_245",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 37,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-14"
+    },
+    {
+        "customer_id": 246,
+        "name": "Customer_246",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 61,
+        "membership_type": "Premium",
+        "registration_date": "2025-06-28"
+    },
+    {
+        "customer_id": 247,
+        "name": "Customer_247",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 61,
+        "membership_type": "Standard",
+        "registration_date": "2027-06-13"
+    },
+    {
+        "customer_id": 248,
+        "name": "Customer_248",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 23,
+        "membership_type": "Premium",
+        "registration_date": "2025-05-18"
+    },
+    {
+        "customer_id": 249,
+        "name": "Customer_249",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 24,
+        "membership_type": "Standard",
+        "registration_date": "2025-08-05"
+    },
+    {
+        "customer_id": 250,
+        "name": "Customer_250",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "Premium",
+        "registration_date": "2025-03-14"
+    },
+    {
+        "customer_id": 251,
+        "name": "Customer_251",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 54,
+        "membership_type": "Premium",
+        "registration_date": "2025-11-05"
+    },
+    {
+        "customer_id": 252,
+        "name": "Customer_252",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 42,
+        "membership_type": "VIP",
+        "registration_date": "2026-07-11"
+    },
+    {
+        "customer_id": 253,
+        "name": "Customer_253",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 64,
+        "membership_type": "Premium",
+        "registration_date": "2026-04-11"
+    },
+    {
+        "customer_id": 254,
+        "name": "Customer_254",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 41,
+        "membership_type": "Premium",
+        "registration_date": "2027-04-15"
+    },
+    {
+        "customer_id": 255,
+        "name": "Customer_255",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 19,
+        "membership_type": "Standard",
+        "registration_date": "2026-02-15"
+    },
+    {
+        "customer_id": 256,
+        "name": "Customer_256",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 24,
+        "membership_type": "Standard",
+        "registration_date": "2026-11-13"
+    },
+    {
+        "customer_id": 257,
+        "name": "Customer_257",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 61,
+        "membership_type": "Premium",
+        "registration_date": "2025-09-15"
+    },
+    {
+        "customer_id": 258,
+        "name": "Customer_258",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 28,
+        "membership_type": "Premium",
+        "registration_date": "2026-08-11"
+    },
+    {
+        "customer_id": 259,
+        "name": "Customer_259",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 34,
+        "membership_type": "VIP",
+        "registration_date": "2025-03-15"
+    },
+    {
+        "customer_id": 260,
+        "name": "Customer_260",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 23,
+        "membership_type": "VIP",
+        "registration_date": "2025-09-29"
+    },
+    {
+        "customer_id": 261,
+        "name": "Customer_261",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "Premium",
+        "registration_date": "2027-06-07"
+    },
+    {
+        "customer_id": 262,
+        "name": "Customer_262",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-16"
+    },
+    {
+        "customer_id": 263,
+        "name": "Customer_263",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 44,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-27"
+    },
+    {
+        "customer_id": 264,
+        "name": "Customer_264",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 45,
+        "membership_type": "Standard",
+        "registration_date": "2027-04-29"
+    },
+    {
+        "customer_id": 265,
+        "name": "Customer_265",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 42,
+        "membership_type": "VIP",
+        "registration_date": "2025-07-06"
+    },
+    {
+        "customer_id": 266,
+        "name": "Customer_266",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 42,
+        "membership_type": "VIP",
+        "registration_date": "2025-08-13"
+    },
+    {
+        "customer_id": 267,
+        "name": "Customer_267",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 54,
+        "membership_type": "Standard",
+        "registration_date": "2026-08-13"
+    },
+    {
+        "customer_id": 268,
+        "name": "Customer_268",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "Premium",
+        "registration_date": "2027-02-13"
+    },
+    {
+        "customer_id": 269,
+        "name": "Customer_269",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 41,
+        "membership_type": "VIP",
+        "registration_date": "2026-04-25"
+    },
+    {
+        "customer_id": 270,
+        "name": "Customer_270",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 38,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-08"
+    },
+    {
+        "customer_id": 271,
+        "name": "Customer_271",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 48,
+        "membership_type": "Premium",
+        "registration_date": "2025-01-03"
+    },
+    {
+        "customer_id": 272,
+        "name": "Customer_272",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 59,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-07"
+    },
+    {
+        "customer_id": 273,
+        "name": "Customer_273",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 36,
+        "membership_type": "Premium",
+        "registration_date": "2026-09-29"
+    },
+    {
+        "customer_id": 274,
+        "name": "Customer_274",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "Premium",
+        "registration_date": "2027-02-08"
+    },
+    {
+        "customer_id": 275,
+        "name": "Customer_275",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 23,
+        "membership_type": "Standard",
+        "registration_date": "2025-01-23"
+    },
+    {
+        "customer_id": 276,
+        "name": "Customer_276",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 31,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-01"
+    },
+    {
+        "customer_id": 277,
+        "name": "Customer_277",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 23,
+        "membership_type": "Premium",
+        "registration_date": "2027-02-22"
+    },
+    {
+        "customer_id": 278,
+        "name": "Customer_278",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 30,
+        "membership_type": "VIP",
+        "registration_date": "2025-04-30"
+    },
+    {
+        "customer_id": 279,
+        "name": "Customer_279",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 41,
+        "membership_type": "Premium",
+        "registration_date": "2026-08-21"
+    },
+    {
+        "customer_id": 280,
+        "name": "Customer_280",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 21,
+        "membership_type": "Standard",
+        "registration_date": "2025-05-21"
+    },
+    {
+        "customer_id": 281,
+        "name": "Customer_281",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 19,
+        "membership_type": "VIP",
+        "registration_date": "2027-06-18"
+    },
+    {
+        "customer_id": 282,
+        "name": "Customer_282",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 20,
+        "membership_type": "Premium",
+        "registration_date": "2027-01-19"
+    },
+    {
+        "customer_id": 283,
+        "name": "Customer_283",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 51,
+        "membership_type": "Premium",
+        "registration_date": "2026-02-08"
+    },
+    {
+        "customer_id": 284,
+        "name": "Customer_284",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "Premium",
+        "registration_date": "2026-12-07"
+    },
+    {
+        "customer_id": 285,
+        "name": "Customer_285",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 34,
+        "membership_type": "Standard",
+        "registration_date": "2025-10-27"
+    },
+    {
+        "customer_id": 286,
+        "name": "Customer_286",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 54,
+        "membership_type": "Premium",
+        "registration_date": "2026-01-22"
+    },
+    {
+        "customer_id": 287,
+        "name": "Customer_287",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 26,
+        "membership_type": "Standard",
+        "registration_date": "2026-02-13"
+    },
+    {
+        "customer_id": 288,
+        "name": "Customer_288",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 27,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-22"
+    },
+    {
+        "customer_id": 289,
+        "name": "Customer_289",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 62,
+        "membership_type": "Standard",
+        "registration_date": "2025-01-29"
+    },
+    {
+        "customer_id": 290,
+        "name": "Customer_290",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 39,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-31"
+    },
+    {
+        "customer_id": 291,
+        "name": "Customer_291",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 29,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-30"
+    },
+    {
+        "customer_id": 292,
+        "name": "Customer_292",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 52,
+        "membership_type": "Standard",
+        "registration_date": "2025-08-24"
+    },
+    {
+        "customer_id": 293,
+        "name": "Customer_293",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 47,
+        "membership_type": "VIP",
+        "registration_date": "2025-04-13"
+    },
+    {
+        "customer_id": 294,
+        "name": "Customer_294",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 42,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-09"
+    },
+    {
+        "customer_id": 295,
+        "name": "Customer_295",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 35,
+        "membership_type": "VIP",
+        "registration_date": "2025-06-21"
+    },
+    {
+        "customer_id": 296,
+        "name": "Customer_296",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 54,
+        "membership_type": "Premium",
+        "registration_date": "2027-06-01"
+    },
+    {
+        "customer_id": 297,
+        "name": "Customer_297",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 23,
+        "membership_type": "VIP",
+        "registration_date": "2027-06-10"
+    },
+    {
+        "customer_id": 298,
+        "name": "Customer_298",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 63,
+        "membership_type": "Standard",
+        "registration_date": "2025-01-04"
+    },
+    {
+        "customer_id": 299,
+        "name": "Customer_299",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 44,
+        "membership_type": "VIP",
+        "registration_date": "2025-12-04"
+    },
+    {
+        "customer_id": 300,
+        "name": "Customer_300",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 35,
+        "membership_type": "Premium",
+        "registration_date": "2026-05-22"
+    },
+    {
+        "customer_id": 301,
+        "name": "Customer_301",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 45,
+        "membership_type": "Standard",
+        "registration_date": "2027-06-04"
+    },
+    {
+        "customer_id": 302,
+        "name": "Customer_302",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 54,
+        "membership_type": "Premium",
+        "registration_date": "2026-05-23"
+    },
+    {
+        "customer_id": 303,
+        "name": "Customer_303",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 59,
+        "membership_type": "Premium",
+        "registration_date": "2027-01-16"
+    },
+    {
+        "customer_id": 304,
+        "name": "Customer_304",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 30,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-06"
+    },
+    {
+        "customer_id": 305,
+        "name": "Customer_305",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 40,
+        "membership_type": "Standard",
+        "registration_date": "2026-07-12"
+    },
+    {
+        "customer_id": 306,
+        "name": "Customer_306",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 65,
+        "membership_type": "Standard",
+        "registration_date": "2026-07-26"
+    },
+    {
+        "customer_id": 307,
+        "name": "Customer_307",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 62,
+        "membership_type": "Premium",
+        "registration_date": "2026-05-11"
+    },
+    {
+        "customer_id": 308,
+        "name": "Customer_308",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 21,
+        "membership_type": "Standard",
+        "registration_date": "2025-06-28"
+    },
+    {
+        "customer_id": 309,
+        "name": "Customer_309",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 18,
+        "membership_type": "Standard",
+        "registration_date": "2027-04-28"
+    },
+    {
+        "customer_id": 310,
+        "name": "Customer_310",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 46,
+        "membership_type": "Premium",
+        "registration_date": "2026-09-07"
+    },
+    {
+        "customer_id": 311,
+        "name": "Customer_311",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 42,
+        "membership_type": "Premium",
+        "registration_date": "2025-05-20"
+    },
+    {
+        "customer_id": 312,
+        "name": "Customer_312",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 55,
+        "membership_type": "Premium",
+        "registration_date": "2025-01-20"
+    },
+    {
+        "customer_id": 313,
+        "name": "Customer_313",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 51,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-19"
+    },
+    {
+        "customer_id": 314,
+        "name": "Customer_314",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 63,
+        "membership_type": "VIP",
+        "registration_date": "2025-02-18"
+    },
+    {
+        "customer_id": 315,
+        "name": "Customer_315",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 45,
+        "membership_type": "VIP",
+        "registration_date": "2025-06-02"
+    },
+    {
+        "customer_id": 316,
+        "name": "Customer_316",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 40,
+        "membership_type": "Premium",
+        "registration_date": "2026-12-08"
+    },
+    {
+        "customer_id": 317,
+        "name": "Customer_317",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 41,
+        "membership_type": "Standard",
+        "registration_date": "2025-05-30"
+    },
+    {
+        "customer_id": 318,
+        "name": "Customer_318",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-28"
+    },
+    {
+        "customer_id": 319,
+        "name": "Customer_319",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 26,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-10"
+    },
+    {
+        "customer_id": 320,
+        "name": "Customer_320",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 37,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-16"
+    },
+    {
+        "customer_id": 321,
+        "name": "Customer_321",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 64,
+        "membership_type": "Standard",
+        "registration_date": "2027-05-07"
+    },
+    {
+        "customer_id": 322,
+        "name": "Customer_322",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "Premium",
+        "registration_date": "2025-08-21"
+    },
+    {
+        "customer_id": 323,
+        "name": "Customer_323",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 29,
+        "membership_type": "VIP",
+        "registration_date": "2025-11-23"
+    },
+    {
+        "customer_id": 324,
+        "name": "Customer_324",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 59,
+        "membership_type": "Premium",
+        "registration_date": "2025-09-24"
+    },
+    {
+        "customer_id": 325,
+        "name": "Customer_325",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 52,
+        "membership_type": "Premium",
+        "registration_date": "2025-12-16"
+    },
+    {
+        "customer_id": 326,
+        "name": "Customer_326",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 33,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-15"
+    },
+    {
+        "customer_id": 327,
+        "name": "Customer_327",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 53,
+        "membership_type": "VIP",
+        "registration_date": "2027-02-09"
+    },
+    {
+        "customer_id": 328,
+        "name": "Customer_328",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "Standard",
+        "registration_date": "2025-10-11"
+    },
+    {
+        "customer_id": 329,
+        "name": "Customer_329",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 41,
+        "membership_type": "Standard",
+        "registration_date": "2025-03-28"
+    },
+    {
+        "customer_id": 330,
+        "name": "Customer_330",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 46,
+        "membership_type": "VIP",
+        "registration_date": "2025-05-12"
+    },
+    {
+        "customer_id": 331,
+        "name": "Customer_331",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 34,
+        "membership_type": "VIP",
+        "registration_date": "2027-01-04"
+    },
+    {
+        "customer_id": 332,
+        "name": "Customer_332",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 22,
+        "membership_type": "VIP",
+        "registration_date": "2025-11-13"
+    },
+    {
+        "customer_id": 333,
+        "name": "Customer_333",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 49,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-12"
+    },
+    {
+        "customer_id": 334,
+        "name": "Customer_334",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 18,
+        "membership_type": "VIP",
+        "registration_date": "2026-12-19"
+    },
+    {
+        "customer_id": 335,
+        "name": "Customer_335",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 23,
+        "membership_type": "Premium",
+        "registration_date": "2025-09-09"
+    },
+    {
+        "customer_id": 336,
+        "name": "Customer_336",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 22,
+        "membership_type": "VIP",
+        "registration_date": "2026-10-21"
+    },
+    {
+        "customer_id": 337,
+        "name": "Customer_337",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 42,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-17"
+    },
+    {
+        "customer_id": 338,
+        "name": "Customer_338",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 26,
+        "membership_type": "VIP",
+        "registration_date": "2025-12-20"
+    },
+    {
+        "customer_id": 339,
+        "name": "Customer_339",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2025-10-08"
+    },
+    {
+        "customer_id": 340,
+        "name": "Customer_340",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 30,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-10"
+    },
+    {
+        "customer_id": 341,
+        "name": "Customer_341",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 37,
+        "membership_type": "VIP",
+        "registration_date": "2027-04-01"
+    },
+    {
+        "customer_id": 342,
+        "name": "Customer_342",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 25,
+        "membership_type": "Standard",
+        "registration_date": "2025-06-21"
+    },
+    {
+        "customer_id": 343,
+        "name": "Customer_343",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 62,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-31"
+    },
+    {
+        "customer_id": 344,
+        "name": "Customer_344",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 39,
+        "membership_type": "Standard",
+        "registration_date": "2026-03-27"
+    },
+    {
+        "customer_id": 345,
+        "name": "Customer_345",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 59,
+        "membership_type": "Premium",
+        "registration_date": "2026-06-01"
+    },
+    {
+        "customer_id": 346,
+        "name": "Customer_346",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 63,
+        "membership_type": "Standard",
+        "registration_date": "2025-10-07"
+    },
+    {
+        "customer_id": 347,
+        "name": "Customer_347",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2026-03-12"
+    },
+    {
+        "customer_id": 348,
+        "name": "Customer_348",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 42,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-28"
+    },
+    {
+        "customer_id": 349,
+        "name": "Customer_349",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 49,
+        "membership_type": "Premium",
+        "registration_date": "2026-06-15"
+    },
+    {
+        "customer_id": 350,
+        "name": "Customer_350",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 52,
+        "membership_type": "Standard",
+        "registration_date": "2025-05-06"
+    },
+    {
+        "customer_id": 351,
+        "name": "Customer_351",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "Premium",
+        "registration_date": "2025-05-04"
+    },
+    {
+        "customer_id": 352,
+        "name": "Customer_352",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 26,
+        "membership_type": "Premium",
+        "registration_date": "2027-01-01"
+    },
+    {
+        "customer_id": 353,
+        "name": "Customer_353",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 44,
+        "membership_type": "Premium",
+        "registration_date": "2026-02-11"
+    },
+    {
+        "customer_id": 354,
+        "name": "Customer_354",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 26,
+        "membership_type": "VIP",
+        "registration_date": "2026-04-29"
+    },
+    {
+        "customer_id": 355,
+        "name": "Customer_355",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2026-08-29"
+    },
+    {
+        "customer_id": 356,
+        "name": "Customer_356",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 43,
+        "membership_type": "Standard",
+        "registration_date": "2026-02-23"
+    },
+    {
+        "customer_id": 357,
+        "name": "Customer_357",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 57,
+        "membership_type": "Standard",
+        "registration_date": "2026-03-22"
+    },
+    {
+        "customer_id": 358,
+        "name": "Customer_358",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 59,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-16"
+    },
+    {
+        "customer_id": 359,
+        "name": "Customer_359",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 57,
+        "membership_type": "VIP",
+        "registration_date": "2027-06-15"
+    },
+    {
+        "customer_id": 360,
+        "name": "Customer_360",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "Premium",
+        "registration_date": "2025-04-21"
+    },
+    {
+        "customer_id": 361,
+        "name": "Customer_361",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-30"
+    },
+    {
+        "customer_id": 362,
+        "name": "Customer_362",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 24,
+        "membership_type": "VIP",
+        "registration_date": "2026-11-18"
+    },
+    {
+        "customer_id": 363,
+        "name": "Customer_363",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 47,
+        "membership_type": "Standard",
+        "registration_date": "2026-03-13"
+    },
+    {
+        "customer_id": 364,
+        "name": "Customer_364",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 37,
+        "membership_type": "Standard",
+        "registration_date": "2025-03-08"
+    },
+    {
+        "customer_id": 365,
+        "name": "Customer_365",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 28,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-01"
+    },
+    {
+        "customer_id": 366,
+        "name": "Customer_366",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "Standard",
+        "registration_date": "2026-05-18"
+    },
+    {
+        "customer_id": 367,
+        "name": "Customer_367",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 34,
+        "membership_type": "Premium",
+        "registration_date": "2026-07-18"
+    },
+    {
+        "customer_id": 368,
+        "name": "Customer_368",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2025-09-23"
+    },
+    {
+        "customer_id": 369,
+        "name": "Customer_369",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 28,
+        "membership_type": "VIP",
+        "registration_date": "2025-07-07"
+    },
+    {
+        "customer_id": 370,
+        "name": "Customer_370",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2026-10-24"
+    },
+    {
+        "customer_id": 371,
+        "name": "Customer_371",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 52,
+        "membership_type": "Premium",
+        "registration_date": "2026-01-22"
+    },
+    {
+        "customer_id": 372,
+        "name": "Customer_372",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-30"
+    },
+    {
+        "customer_id": 373,
+        "name": "Customer_373",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 32,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-08"
+    },
+    {
+        "customer_id": 374,
+        "name": "Customer_374",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 40,
+        "membership_type": "Standard",
+        "registration_date": "2025-10-08"
+    },
+    {
+        "customer_id": 375,
+        "name": "Customer_375",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 48,
+        "membership_type": "VIP",
+        "registration_date": "2026-10-23"
+    },
+    {
+        "customer_id": 376,
+        "name": "Customer_376",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 46,
+        "membership_type": "Premium",
+        "registration_date": "2026-07-02"
+    },
+    {
+        "customer_id": 377,
+        "name": "Customer_377",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 19,
+        "membership_type": "VIP",
+        "registration_date": "2025-08-28"
+    },
+    {
+        "customer_id": 378,
+        "name": "Customer_378",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 32,
+        "membership_type": "Premium",
+        "registration_date": "2025-05-21"
+    },
+    {
+        "customer_id": 379,
+        "name": "Customer_379",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 36,
+        "membership_type": "Premium",
+        "registration_date": "2025-01-11"
+    },
+    {
+        "customer_id": 380,
+        "name": "Customer_380",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 59,
+        "membership_type": "Standard",
+        "registration_date": "2027-06-01"
+    },
+    {
+        "customer_id": 381,
+        "name": "Customer_381",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "Standard",
+        "registration_date": "2026-08-15"
+    },
+    {
+        "customer_id": 382,
+        "name": "Customer_382",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 31,
+        "membership_type": "Premium",
+        "registration_date": "2025-01-26"
+    },
+    {
+        "customer_id": 383,
+        "name": "Customer_383",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 18,
+        "membership_type": "Standard",
+        "registration_date": "2025-12-08"
+    },
+    {
+        "customer_id": 384,
+        "name": "Customer_384",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 19,
+        "membership_type": "Premium",
+        "registration_date": "2027-02-03"
+    },
+    {
+        "customer_id": 385,
+        "name": "Customer_385",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2026-04-21"
+    },
+    {
+        "customer_id": 386,
+        "name": "Customer_386",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 30,
+        "membership_type": "VIP",
+        "registration_date": "2025-11-25"
+    },
+    {
+        "customer_id": 387,
+        "name": "Customer_387",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 38,
+        "membership_type": "Standard",
+        "registration_date": "2025-02-19"
+    },
+    {
+        "customer_id": 388,
+        "name": "Customer_388",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 57,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-08"
+    },
+    {
+        "customer_id": 389,
+        "name": "Customer_389",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 50,
+        "membership_type": "Premium",
+        "registration_date": "2025-11-06"
+    },
+    {
+        "customer_id": 390,
+        "name": "Customer_390",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2025-03-06"
+    },
+    {
+        "customer_id": 391,
+        "name": "Customer_391",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 25,
+        "membership_type": "Premium",
+        "registration_date": "2026-04-18"
+    },
+    {
+        "customer_id": 392,
+        "name": "Customer_392",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 53,
+        "membership_type": "VIP",
+        "registration_date": "2026-08-15"
+    },
+    {
+        "customer_id": 393,
+        "name": "Customer_393",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 55,
+        "membership_type": "VIP",
+        "registration_date": "2026-04-10"
+    },
+    {
+        "customer_id": 394,
+        "name": "Customer_394",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 57,
+        "membership_type": "Premium",
+        "registration_date": "2026-04-23"
+    },
+    {
+        "customer_id": 395,
+        "name": "Customer_395",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 57,
+        "membership_type": "Standard",
+        "registration_date": "2026-07-27"
+    },
+    {
+        "customer_id": 396,
+        "name": "Customer_396",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 57,
+        "membership_type": "Premium",
+        "registration_date": "2025-11-20"
+    },
+    {
+        "customer_id": 397,
+        "name": "Customer_397",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 63,
+        "membership_type": "Premium",
+        "registration_date": "2026-08-26"
+    },
+    {
+        "customer_id": 398,
+        "name": "Customer_398",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 33,
+        "membership_type": "VIP",
+        "registration_date": "2027-01-07"
+    },
+    {
+        "customer_id": 399,
+        "name": "Customer_399",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 55,
+        "membership_type": "VIP",
+        "registration_date": "2025-12-24"
+    },
+    {
+        "customer_id": 400,
+        "name": "Customer_400",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 26,
+        "membership_type": "VIP",
+        "registration_date": "2025-07-02"
+    },
+    {
+        "customer_id": 401,
+        "name": "Customer_401",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 44,
+        "membership_type": "VIP",
+        "registration_date": "2025-06-07"
+    },
+    {
+        "customer_id": 402,
+        "name": "Customer_402",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 54,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-13"
+    },
+    {
+        "customer_id": 403,
+        "name": "Customer_403",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 35,
+        "membership_type": "Premium",
+        "registration_date": "2025-01-20"
+    },
+    {
+        "customer_id": 404,
+        "name": "Customer_404",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 30,
+        "membership_type": "Standard",
+        "registration_date": "2027-02-25"
+    },
+    {
+        "customer_id": 405,
+        "name": "Customer_405",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 57,
+        "membership_type": "Standard",
+        "registration_date": "2026-07-16"
+    },
+    {
+        "customer_id": 406,
+        "name": "Customer_406",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 51,
+        "membership_type": "VIP",
+        "registration_date": "2025-07-22"
+    },
+    {
+        "customer_id": 407,
+        "name": "Customer_407",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 29,
+        "membership_type": "Premium",
+        "registration_date": "2025-06-04"
+    },
+    {
+        "customer_id": 408,
+        "name": "Customer_408",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 45,
+        "membership_type": "Standard",
+        "registration_date": "2025-06-04"
+    },
+    {
+        "customer_id": 409,
+        "name": "Customer_409",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 26,
+        "membership_type": "Premium",
+        "registration_date": "2025-11-09"
+    },
+    {
+        "customer_id": 410,
+        "name": "Customer_410",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 47,
+        "membership_type": "Premium",
+        "registration_date": "2026-05-05"
+    },
+    {
+        "customer_id": 411,
+        "name": "Customer_411",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 21,
+        "membership_type": "Premium",
+        "registration_date": "2025-02-02"
+    },
+    {
+        "customer_id": 412,
+        "name": "Customer_412",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 25,
+        "membership_type": "Standard",
+        "registration_date": "2026-11-13"
+    },
+    {
+        "customer_id": 413,
+        "name": "Customer_413",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 59,
+        "membership_type": "VIP",
+        "registration_date": "2025-02-27"
+    },
+    {
+        "customer_id": 414,
+        "name": "Customer_414",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 61,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-01"
+    },
+    {
+        "customer_id": 415,
+        "name": "Customer_415",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 41,
+        "membership_type": "VIP",
+        "registration_date": "2027-02-23"
+    },
+    {
+        "customer_id": 416,
+        "name": "Customer_416",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-09"
+    },
+    {
+        "customer_id": 417,
+        "name": "Customer_417",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 20,
+        "membership_type": "Standard",
+        "registration_date": "2027-01-24"
+    },
+    {
+        "customer_id": 418,
+        "name": "Customer_418",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 62,
+        "membership_type": "Standard",
+        "registration_date": "2027-06-16"
+    },
+    {
+        "customer_id": 419,
+        "name": "Customer_419",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "Standard",
+        "registration_date": "2025-08-30"
+    },
+    {
+        "customer_id": 420,
+        "name": "Customer_420",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 38,
+        "membership_type": "Premium",
+        "registration_date": "2025-10-28"
+    },
+    {
+        "customer_id": 421,
+        "name": "Customer_421",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 27,
+        "membership_type": "Standard",
+        "registration_date": "2026-11-06"
+    },
+    {
+        "customer_id": 422,
+        "name": "Customer_422",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 37,
+        "membership_type": "Standard",
+        "registration_date": "2025-01-08"
+    },
+    {
+        "customer_id": 423,
+        "name": "Customer_423",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-27"
+    },
+    {
+        "customer_id": 424,
+        "name": "Customer_424",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 35,
+        "membership_type": "Standard",
+        "registration_date": "2025-05-27"
+    },
+    {
+        "customer_id": 425,
+        "name": "Customer_425",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 41,
+        "membership_type": "Premium",
+        "registration_date": "2025-10-04"
+    },
+    {
+        "customer_id": 426,
+        "name": "Customer_426",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 55,
+        "membership_type": "VIP",
+        "registration_date": "2026-09-06"
+    },
+    {
+        "customer_id": 427,
+        "name": "Customer_427",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 61,
+        "membership_type": "Premium",
+        "registration_date": "2025-02-21"
+    },
+    {
+        "customer_id": 428,
+        "name": "Customer_428",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 39,
+        "membership_type": "Standard",
+        "registration_date": "2025-06-27"
+    },
+    {
+        "customer_id": 429,
+        "name": "Customer_429",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 51,
+        "membership_type": "VIP",
+        "registration_date": "2027-03-21"
+    },
+    {
+        "customer_id": 430,
+        "name": "Customer_430",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 49,
+        "membership_type": "Standard",
+        "registration_date": "2025-12-15"
+    },
+    {
+        "customer_id": 431,
+        "name": "Customer_431",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 64,
+        "membership_type": "VIP",
+        "registration_date": "2026-12-07"
+    },
+    {
+        "customer_id": 432,
+        "name": "Customer_432",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 41,
+        "membership_type": "VIP",
+        "registration_date": "2026-06-14"
+    },
+    {
+        "customer_id": 433,
+        "name": "Customer_433",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 52,
+        "membership_type": "VIP",
+        "registration_date": "2025-04-14"
+    },
+    {
+        "customer_id": 434,
+        "name": "Customer_434",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 55,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-22"
+    },
+    {
+        "customer_id": 435,
+        "name": "Customer_435",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 27,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-10"
+    },
+    {
+        "customer_id": 436,
+        "name": "Customer_436",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 59,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-12"
+    },
+    {
+        "customer_id": 437,
+        "name": "Customer_437",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 18,
+        "membership_type": "Premium",
+        "registration_date": "2026-12-04"
+    },
+    {
+        "customer_id": 438,
+        "name": "Customer_438",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 48,
+        "membership_type": "VIP",
+        "registration_date": "2025-10-07"
+    },
+    {
+        "customer_id": 439,
+        "name": "Customer_439",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 29,
+        "membership_type": "Premium",
+        "registration_date": "2025-03-04"
+    },
+    {
+        "customer_id": 440,
+        "name": "Customer_440",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 27,
+        "membership_type": "VIP",
+        "registration_date": "2027-05-04"
+    },
+    {
+        "customer_id": 441,
+        "name": "Customer_441",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "VIP",
+        "registration_date": "2025-01-09"
+    },
+    {
+        "customer_id": 442,
+        "name": "Customer_442",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 41,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-30"
+    },
+    {
+        "customer_id": 443,
+        "name": "Customer_443",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 54,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-18"
+    },
+    {
+        "customer_id": 444,
+        "name": "Customer_444",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 54,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-24"
+    },
+    {
+        "customer_id": 445,
+        "name": "Customer_445",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 63,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-28"
+    },
+    {
+        "customer_id": 446,
+        "name": "Customer_446",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 40,
+        "membership_type": "VIP",
+        "registration_date": "2025-09-01"
+    },
+    {
+        "customer_id": 447,
+        "name": "Customer_447",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 60,
+        "membership_type": "Standard",
+        "registration_date": "2027-04-07"
+    },
+    {
+        "customer_id": 448,
+        "name": "Customer_448",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "Standard",
+        "registration_date": "2025-08-12"
+    },
+    {
+        "customer_id": 449,
+        "name": "Customer_449",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 55,
+        "membership_type": "Premium",
+        "registration_date": "2025-11-25"
+    },
+    {
+        "customer_id": 450,
+        "name": "Customer_450",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 56,
+        "membership_type": "Standard",
+        "registration_date": "2025-09-23"
+    },
+    {
+        "customer_id": 451,
+        "name": "Customer_451",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 51,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-11"
+    },
+    {
+        "customer_id": 452,
+        "name": "Customer_452",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "VIP",
+        "registration_date": "2026-08-16"
+    },
+    {
+        "customer_id": 453,
+        "name": "Customer_453",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 46,
+        "membership_type": "Standard",
+        "registration_date": "2027-03-20"
+    },
+    {
+        "customer_id": 454,
+        "name": "Customer_454",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 25,
+        "membership_type": "Premium",
+        "registration_date": "2027-05-29"
+    },
+    {
+        "customer_id": 455,
+        "name": "Customer_455",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 55,
+        "membership_type": "Standard",
+        "registration_date": "2027-03-10"
+    },
+    {
+        "customer_id": 456,
+        "name": "Customer_456",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 52,
+        "membership_type": "Premium",
+        "registration_date": "2027-06-16"
+    },
+    {
+        "customer_id": 457,
+        "name": "Customer_457",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 36,
+        "membership_type": "VIP",
+        "registration_date": "2025-12-11"
+    },
+    {
+        "customer_id": 458,
+        "name": "Customer_458",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 29,
+        "membership_type": "Standard",
+        "registration_date": "2026-07-02"
+    },
+    {
+        "customer_id": 459,
+        "name": "Customer_459",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2025-11-09"
+    },
+    {
+        "customer_id": 460,
+        "name": "Customer_460",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 36,
+        "membership_type": "VIP",
+        "registration_date": "2025-03-09"
+    },
+    {
+        "customer_id": 461,
+        "name": "Customer_461",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 48,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-20"
+    },
+    {
+        "customer_id": 462,
+        "name": "Customer_462",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "VIP",
+        "registration_date": "2026-11-22"
+    },
+    {
+        "customer_id": 463,
+        "name": "Customer_463",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 34,
+        "membership_type": "VIP",
+        "registration_date": "2026-04-11"
+    },
+    {
+        "customer_id": 464,
+        "name": "Customer_464",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 51,
+        "membership_type": "Premium",
+        "registration_date": "2025-09-22"
+    },
+    {
+        "customer_id": 465,
+        "name": "Customer_465",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 40,
+        "membership_type": "VIP",
+        "registration_date": "2027-02-03"
+    },
+    {
+        "customer_id": 466,
+        "name": "Customer_466",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 45,
+        "membership_type": "Premium",
+        "registration_date": "2027-03-27"
+    },
+    {
+        "customer_id": 467,
+        "name": "Customer_467",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 35,
+        "membership_type": "Premium",
+        "registration_date": "2025-03-22"
+    },
+    {
+        "customer_id": 468,
+        "name": "Customer_468",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 56,
+        "membership_type": "Standard",
+        "registration_date": "2025-02-14"
+    },
+    {
+        "customer_id": 469,
+        "name": "Customer_469",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 31,
+        "membership_type": "Standard",
+        "registration_date": "2025-11-14"
+    },
+    {
+        "customer_id": 470,
+        "name": "Customer_470",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 38,
+        "membership_type": "Premium",
+        "registration_date": "2025-08-24"
+    },
+    {
+        "customer_id": 471,
+        "name": "Customer_471",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 34,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-14"
+    },
+    {
+        "customer_id": 472,
+        "name": "Customer_472",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 21,
+        "membership_type": "Premium",
+        "registration_date": "2026-01-04"
+    },
+    {
+        "customer_id": 473,
+        "name": "Customer_473",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 28,
+        "membership_type": "Standard",
+        "registration_date": "2026-04-17"
+    },
+    {
+        "customer_id": 474,
+        "name": "Customer_474",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 24,
+        "membership_type": "VIP",
+        "registration_date": "2026-02-25"
+    },
+    {
+        "customer_id": 475,
+        "name": "Customer_475",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 28,
+        "membership_type": "Standard",
+        "registration_date": "2025-05-03"
+    },
+    {
+        "customer_id": 476,
+        "name": "Customer_476",
+        "city": "Mingachevir",
+        "gender": "Female",
+        "age": 23,
+        "membership_type": "Premium",
+        "registration_date": "2025-02-16"
+    },
+    {
+        "customer_id": 477,
+        "name": "Customer_477",
+        "city": "Ganja",
+        "gender": "Male",
+        "age": 46,
+        "membership_type": "VIP",
+        "registration_date": "2027-06-02"
+    },
+    {
+        "customer_id": 478,
+        "name": "Customer_478",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 40,
+        "membership_type": "Premium",
+        "registration_date": "2026-03-11"
+    },
+    {
+        "customer_id": 479,
+        "name": "Customer_479",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 45,
+        "membership_type": "VIP",
+        "registration_date": "2025-10-21"
+    },
+    {
+        "customer_id": 480,
+        "name": "Customer_480",
+        "city": "Sumgait",
+        "gender": "Female",
+        "age": 18,
+        "membership_type": "Premium",
+        "registration_date": "2025-11-15"
+    },
+    {
+        "customer_id": 481,
+        "name": "Customer_481",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 46,
+        "membership_type": "VIP",
+        "registration_date": "2026-01-23"
+    },
+    {
+        "customer_id": 482,
+        "name": "Customer_482",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 43,
+        "membership_type": "Standard",
+        "registration_date": "2026-10-17"
+    },
+    {
+        "customer_id": 483,
+        "name": "Customer_483",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 31,
+        "membership_type": "Premium",
+        "registration_date": "2026-11-13"
+    },
+    {
+        "customer_id": 484,
+        "name": "Customer_484",
+        "city": "Mingachevir",
+        "gender": "Male",
+        "age": 65,
+        "membership_type": "Premium",
+        "registration_date": "2026-02-23"
+    },
+    {
+        "customer_id": 485,
+        "name": "Customer_485",
+        "city": "Baku",
+        "gender": "Male",
+        "age": 53,
+        "membership_type": "VIP",
+        "registration_date": "2026-12-07"
+    },
+    {
+        "customer_id": 486,
+        "name": "Customer_486",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 52,
+        "membership_type": "VIP",
+        "registration_date": "2026-04-04"
+    },
+    {
+        "customer_id": 487,
+        "name": "Customer_487",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 39,
+        "membership_type": "VIP",
+        "registration_date": "2027-04-16"
+    },
+    {
+        "customer_id": 488,
+        "name": "Customer_488",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 58,
+        "membership_type": "Standard",
+        "registration_date": "2025-03-22"
+    },
+    {
+        "customer_id": 489,
+        "name": "Customer_489",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 25,
+        "membership_type": "VIP",
+        "registration_date": "2026-08-07"
+    },
+    {
+        "customer_id": 490,
+        "name": "Customer_490",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 21,
+        "membership_type": "VIP",
+        "registration_date": "2026-05-25"
+    },
+    {
+        "customer_id": 491,
+        "name": "Customer_491",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 56,
+        "membership_type": "Premium",
+        "registration_date": "2025-06-04"
+    },
+    {
+        "customer_id": 492,
+        "name": "Customer_492",
+        "city": "Ganja",
+        "gender": "Female",
+        "age": 36,
+        "membership_type": "VIP",
+        "registration_date": "2025-05-04"
+    },
+    {
+        "customer_id": 493,
+        "name": "Customer_493",
+        "city": "Lankaran",
+        "gender": "Male",
+        "age": 37,
+        "membership_type": "Premium",
+        "registration_date": "2025-08-30"
+    },
+    {
+        "customer_id": 494,
+        "name": "Customer_494",
+        "city": "Shaki",
+        "gender": "Male",
+        "age": 45,
+        "membership_type": "Premium",
+        "registration_date": "2026-10-25"
+    },
+    {
+        "customer_id": 495,
+        "name": "Customer_495",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 34,
+        "membership_type": "Premium",
+        "registration_date": "2027-03-26"
+    },
+    {
+        "customer_id": 496,
+        "name": "Customer_496",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 48,
+        "membership_type": "Standard",
+        "registration_date": "2025-08-21"
+    },
+    {
+        "customer_id": 497,
+        "name": "Customer_497",
+        "city": "Lankaran",
+        "gender": "Female",
+        "age": 52,
+        "membership_type": "Premium",
+        "registration_date": "2025-07-05"
+    },
+    {
+        "customer_id": 498,
+        "name": "Customer_498",
+        "city": "Sumgait",
+        "gender": "Male",
+        "age": 50,
+        "membership_type": "VIP",
+        "registration_date": "2026-11-21"
+    },
+    {
+        "customer_id": 499,
+        "name": "Customer_499",
+        "city": "Baku",
+        "gender": "Female",
+        "age": 56,
+        "membership_type": "VIP",
+        "registration_date": "2026-06-02"
+    },
+    {
+        "customer_id": 500,
+        "name": "Customer_500",
+        "city": "Shaki",
+        "gender": "Female",
+        "age": 38,
+        "membership_type": "VIP",
+        "registration_date": "2025-12-08"
+    }
+]
