@@ -79,3 +79,19 @@ Customer and review data are generated in JSON format, processed with Pandas, an
 * products
 * orders
 * reviews
+
+
+
+## Dashboard Preview
+
+### Sales by Customer Segment
+
+![Customer Segment](images/customer_segment.png)
+
+### Top Products by Revenue
+
+![Top Products](images/top_products.png)
+
+### Sales by Category and City
+
+![Sales Overview](images/sales_overview.png)

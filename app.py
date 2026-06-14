@@ -198,7 +198,7 @@ fig_top_products.update_traces(
 fig_top_products.update_layout(
     height=580,
     yaxis=dict(autorange="reversed"),
-    xaxis_title="Revenue",
+    xaxis_title="Sales",
     yaxis_title="Product",
     showlegend=False,
     margin=dict(l=80, r=140, t=70, b=40)
@@ -258,7 +258,7 @@ fig_customers.update_traces(
 fig_customers.update_layout(
     height=580,
     yaxis=dict(autorange="reversed"),
-    xaxis_title="Revenue",
+    xaxis_title="Sales",
     yaxis_title="Customer",
     showlegend=False,
     margin=dict(l=80, r=140, t=70, b=40)
@@ -354,7 +354,8 @@ fig_city = px.bar(
 
 fig_city.update_traces(
     texttemplate="$%{y:,.0f}",
-    textposition="outside"
+    textposition="outside",
+    cliponaxis=False
 )
 
 fig_city.update_layout(
@@ -362,13 +363,15 @@ fig_city.update_layout(
     xaxis_title="City",
     yaxis_title="Total Sales",
     showlegend=False,
-    margin=dict(l=40, r=40, t=70, b=40)
+    margin=dict(l=40, r=40, t=70, b=40),
+    uniformtext_minsize=10,
+    uniformtext_mode="hide"
 )
 
 fig_city.update_yaxes(
     range=[
         0,
-        city_df["total_sales"].max() * 1.2
+        city_df["total_sales"].max() * 1.3
     ]
 )
 
@@ -381,3 +384,12 @@ with row2_col1:
 with row2_col2:
     st.subheader("Sales by City")
     st.plotly_chart(fig_city, use_container_width=True)
+
+    fig_city = px.bar(
+    city_df,
+    x="city",
+    y="total_sales",
+    text="total_sales",
+    title="Sales by City",
+    color="total_sales"
+)
