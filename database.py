@@ -1,17 +1,18 @@
+import os
+from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
-DB_USER = "postgres"
-DB_PASSWORD = "Turk!19971997"
-DB_HOST = "localhost"
-DB_PORT = "5432"
-DB_NAME = "ecommerce_dashboard"
+load_dotenv()
 
-engine = create_engine(
-    f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
-)
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+if not DATABASE_URL:
+    raise ValueError("DATABASE_URL is not set in .env file")
+
+engine = create_engine(DATABASE_URL)
 
 try:
     with engine.connect() as conn:
-        print("PostgreSQL connection successful! - database.py:15")
+        print("PostgreSQL connection successful! - database.py:16")
 except Exception as e:
-    print("Error: - database.py:17", e)
+    print("Error: - database.py:18", e)
