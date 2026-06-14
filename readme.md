@@ -80,7 +80,17 @@ Customer and review data are generated in JSON format, processed with Pandas, an
 * orders
 * reviews
 
+Setup
 
+pip install -r requirements.txt
+
+Create .env file:
+
+DATABASE_URL=your_database_url
+
+Run:
+
+streamlit run app.py
 
 ## Dashboard Preview
 
@@ -98,3 +108,5 @@ Customer and review data are generated in JSON format, processed with Pandas, an
 ### Sales by Category and City
 
 ![Sales Overview](images/sales_overview.png)
+
+
