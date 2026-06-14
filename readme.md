@@ -80,7 +80,7 @@ Customer and review data are generated in JSON format, processed with Pandas, an
 * orders
 * reviews
 
-Setup
+## Setup
 
 pip install -r requirements.txt
 
@@ -88,7 +88,7 @@ Create .env file:
 
 DATABASE_URL=your_database_url
 
-Run:
+## Run:
 
 streamlit run app.py
 
