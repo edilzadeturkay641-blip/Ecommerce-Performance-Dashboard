@@ -87,10 +87,13 @@ Customer and review data are generated in JSON format, processed with Pandas, an
 ### Sales by Customer Segment
 
 ![Customer Segment](images/customer_segment.png)
-
 ### Top Products by Revenue
 
 ![Top Products](images/top_products.png)
+
+### Highest value customers
+
+![Top Products](images/highest_value_customers.png)
 
 ### Sales by Category and City
 
