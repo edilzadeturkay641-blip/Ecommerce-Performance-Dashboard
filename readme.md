@@ -1,28 +1,81 @@
 # Ecommerce Performance Dashboard
 
-Interactive dashboard built with Streamlit, PostgreSQL and Plotly.
+This project is an e-commerce dashboard built with Python, PostgreSQL, Streamlit, Plotly and Pandas.
 
-## Features
+The goal of the project is to collect, store, analyze, and visualize e-commerce data through an interactive dashboard.
 
-- Sales analysis
-- Customer segmentation
-- Top products
-- Top customers
-- Sales by category
-- Sales by city
+## Data Sources
 
-## Technologies
+### Products
 
-- Python
-- Streamlit
-- PostgreSQL
-- SQLAlchemy
-- Pandas
-- Plotly
+Product data is retrieved from a public REST API using Python Requests. The API returns data in JSON format, which is processed with Pandas and loaded into PostgreSQL.
 
-## Run
+### Orders
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+Order data is generated and stored as CSV files before being loaded into PostgreSQL.
+
+### Customers and Reviews
+
+Customer and review data are generated in JSON format, processed with Pandas, and loaded into PostgreSQL.
+
+---
+
+## Dashboard Features
+
+### Sales Analytics
+
+* Total Sales Overview
+* Monthly Sales Analysis
+* Sales by Category
+* Sales by City
+
+### Customer Analytics
+
+* Total Customers
+* Highest Value Customers
+* Customer Membership Analysis
+
+### Product Analytics
+
+* Top Selling Products
+* Product Performance Analysis
+
+### Interactive Filters
+
+* City Filter
+* Date Range Filter
+* Product Filter
+
+
+## Technologies Used
+
+### Programming & Data Analysis
+
+* Python
+* Pandas
+
+### Data Collection
+
+* Requests
+* REST API
+* JSON Data
+* CSV Data
+
+### Database
+
+* PostgreSQL
+* SQLAlchemy
+
+### Dashboard & Visualization
+
+* Streamlit
+* Plotly
+
+
+
+## Database Tables
+
+* customers
+* products
+* orders
+* reviews
