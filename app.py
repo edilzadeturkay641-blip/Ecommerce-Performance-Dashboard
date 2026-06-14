@@ -9,12 +9,9 @@ import os
 load_dotenv()
 
 DATABASE_URL = os.getenv("DATABASE_URL")
-engine =  create_engine(DATABASE_URL)
+engine = create_engine(DATABASE_URL)
 
-st.set_page_config(
-    page_title="Ecommerce Performance Dashboard",
-    layout="wide"
-)
+st.set_page_config(page_title="Ecommerce Performance Dashboard", layout="wide")
 
 st.title("Ecommerce Performance Dashboard")
 st.caption("Sales, product demand and customer behavior analysis")
@@ -33,22 +30,13 @@ ORDER BY city;
 
 cities_df = pd.read_sql(cities_query, engine)
 
-selected_city = st.sidebar.selectbox(
-    "City",
-    ["All"] + cities_df["city"].tolist()
-)
+selected_city = st.sidebar.selectbox("City", ["All"] + cities_df["city"].tolist())
 
 st.sidebar.subheader("Date Filter")
 
-start_date = st.sidebar.date_input(
-    "Start Date",
-    value=date(2026, 1, 1)
-)
+start_date = st.sidebar.date_input("Start Date", value=date(2026, 1, 1))
 
-end_date = st.sidebar.date_input(
-    "End Date",
-    value=date.today()
-)
+end_date = st.sidebar.date_input("End Date", value=date.today())
 
 filters = []
 
@@ -56,9 +44,7 @@ if selected_city != "All":
     filters.append(f"c.city = '{selected_city}'")
 
 if start_date and end_date:
-    filters.append(
-        f"o.order_date BETWEEN '{start_date}' AND '{end_date}'"
-    )
+    filters.append(f"o.order_date BETWEEN '{start_date}' AND '{end_date}'")
 
 where_clause = ""
 
@@ -85,8 +71,14 @@ JOIN customers c
 basis_df = pd.read_sql(basis_query, engine)
 
 total_sales = basis_df["total_sales"][0] if pd.notna(basis_df["total_sales"][0]) else 0
-total_orders = int(basis_df["total_orders"][0]) if pd.notna(basis_df["total_orders"][0]) else 0
-total_customers = int(basis_df["total_customers"][0]) if pd.notna(basis_df["total_customers"][0]) else 0
+total_orders = (
+    int(basis_df["total_orders"][0]) if pd.notna(basis_df["total_orders"][0]) else 0
+)
+total_customers = (
+    int(basis_df["total_customers"][0])
+    if pd.notna(basis_df["total_customers"][0])
+    else 0
+)
 
 col1, col2, col3 = st.columns(3)
 
@@ -128,14 +120,9 @@ if monthly_df.empty:
 
 monthly_df["month"] = pd.to_datetime(monthly_df["month"])
 
-selected_product = st.selectbox(
-    "Product",
-    monthly_df["product_name"].unique()
-)
+selected_product = st.selectbox("Product", monthly_df["product_name"].unique())
 
-filtered_monthly_df = monthly_df[
-    monthly_df["product_name"] == selected_product
-]
+filtered_monthly_df = monthly_df[monthly_df["product_name"] == selected_product]
 
 fig_monthly = px.line(
     filtered_monthly_df,
@@ -143,7 +130,7 @@ fig_monthly = px.line(
     y="total_sales",
     color="membership_type",
     markers=True,
-    title=f"{selected_product} - Monthly Sales by Customer Segment"
+    title=f"{selected_product} - Monthly Sales by Customer Segment",
 )
 
 fig_monthly.update_layout(
@@ -151,7 +138,7 @@ fig_monthly.update_layout(
     xaxis_title="Month",
     yaxis_title="Sales",
     legend_title="Customer Segment",
-    margin=dict(l=40, r=40, t=70, b=40)
+    margin=dict(l=40, r=40, t=70, b=40),
 )
 
 st.plotly_chart(fig_monthly, use_container_width=True)
@@ -187,13 +174,10 @@ fig_top_products = px.bar(
     color="total_sales",
     text="total_sales",
     title="Top 10 Products by Revenue",
-   # color_continuous_scale="Plasma"
+    # color_continuous_scale="Plasma"
 )
 
-fig_top_products.update_traces(
-    texttemplate="$%{x:,.0f}",
-    textposition="outside"
-)
+fig_top_products.update_traces(texttemplate="$%{x:,.0f}", textposition="outside")
 
 fig_top_products.update_layout(
     height=580,
@@ -201,15 +185,10 @@ fig_top_products.update_layout(
     xaxis_title="Sales",
     yaxis_title="Product",
     showlegend=False,
-    margin=dict(l=80, r=140, t=70, b=40)
+    margin=dict(l=80, r=140, t=70, b=40),
 )
 
-fig_top_products.update_xaxes(
-    range=[
-        0,
-        top_products_df["total_sales"].max() * 1.2
-    ]
-)
+fig_top_products.update_xaxes(range=[0, top_products_df["total_sales"].max() * 1.2])
 
 st.subheader("Top Products")
 st.plotly_chart(fig_top_products, use_container_width=True)
@@ -247,13 +226,10 @@ fig_customers = px.bar(
     color="total_sales",
     text="total_sales",
     title="Highest Value Customers",
-    #color_continuous_scale="Greens"
+    # color_continuous_scale="Greens"
 )
 
-fig_customers.update_traces(
-    texttemplate="$%{x:,.0f}",
-    textposition="outside"
-)
+fig_customers.update_traces(texttemplate="$%{x:,.0f}", textposition="outside")
 
 fig_customers.update_layout(
     height=580,
@@ -261,21 +237,15 @@ fig_customers.update_layout(
     xaxis_title="Sales",
     yaxis_title="Customer",
     showlegend=False,
-    margin=dict(l=80, r=140, t=70, b=40)
+    margin=dict(l=80, r=140, t=70, b=40),
 )
 
-fig_customers.update_xaxes(
-    range=[
-        0,
-        top_customers_df["total_sales"].max() * 1.2
-    ]
-)
+fig_customers.update_xaxes(range=[0, top_customers_df["total_sales"].max() * 1.2])
 
 st.subheader("Highest Value Customers")
 st.plotly_chart(fig_customers, use_container_width=True)
 
 st.divider()
-
 
 
 # =========================
@@ -298,12 +268,12 @@ ORDER BY total_sales DESC;
 
 category_df = pd.read_sql(category_query, engine)
 
-BLUE_PALETTE =[
+BLUE_PALETTE = [
     "#083D77",  # tünd
     "#2166B5",  # orta-tünd
     "#4A92E2",  # orta
     "#7BB8F0",  # açıq
-    "#C7E3FA"   # çox açıq
+    "#C7E3FA",  # çox açıq
 ]
 
 
@@ -312,14 +282,11 @@ fig_category = px.pie(
     names="category",
     values="total_sales",
     hole=0.4,
-    color_discrete_sequence=BLUE_PALETTE
-
+    color_discrete_sequence=BLUE_PALETTE,
 )
 
 fig_category.update_layout(
-    height=470,
-    legend_title="Category",
-    margin=dict(l=20, r=20, t=70, b=20)
+    height=470, legend_title="Category", margin=dict(l=20, r=20, t=70, b=20)
 )
 
 # =========================
@@ -349,13 +316,11 @@ fig_city = px.bar(
     text="total_sales",
     title="Sales by City",
     color="total_sales",
-    #color_continuous_scale="Viridis"
+    # color_continuous_scale="Viridis"
 )
 
 fig_city.update_traces(
-    texttemplate="$%{y:,.0f}",
-    textposition="outside",
-    cliponaxis=False
+    texttemplate="$%{y:,.0f}", textposition="outside", cliponaxis=False
 )
 
 fig_city.update_layout(
@@ -365,15 +330,10 @@ fig_city.update_layout(
     showlegend=False,
     margin=dict(l=40, r=40, t=70, b=40),
     uniformtext_minsize=10,
-    uniformtext_mode="hide"
+    uniformtext_mode="hide",
 )
 
-fig_city.update_yaxes(
-    range=[
-        0,
-        city_df["total_sales"].max() * 1.3
-    ]
-)
+fig_city.update_yaxes(range=[0, city_df["total_sales"].max() * 1.3])
 
 row2_col1, row2_col2 = st.columns(2)
 
@@ -386,10 +346,10 @@ with row2_col2:
     st.plotly_chart(fig_city, use_container_width=True)
 
     fig_city = px.bar(
-    city_df,
-    x="city",
-    y="total_sales",
-    text="total_sales",
-    title="Sales by City",
-    color="total_sales"
-)
+        city_df,
+        x="city",
+        y="total_sales",
+        text="total_sales",
+        title="Sales by City",
+        color="total_sales",
+    )
