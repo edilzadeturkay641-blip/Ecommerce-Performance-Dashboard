@@ -3,10 +3,13 @@ import pandas as pd
 from sqlalchemy import create_engine
 import plotly.express as px
 from datetime import date
+from dotenv import load_dotenv
+import os
 
-engine = create_engine(
-    "postgresql+psycopg2://postgres:Turk!19971997@localhost:5432/ecommerce_dashboard"
-)
+load_dotenv()
+
+DATABASE_URL = os.getenv("DATABASE_URL")
+engine =  create_engine(DATABASE_URL)
 
 st.set_page_config(
     page_title="Ecommerce Performance Dashboard",
