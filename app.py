@@ -441,7 +441,7 @@ fig_segment.update_traces(
 fig_segment.update_layout(
     height=420,
     xaxis_title="Customers",
-    yaxis_title="Segment",
+    yaxis_title="",
     showlegend=False
 )
 
