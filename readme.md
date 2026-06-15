@@ -29,11 +29,24 @@ Customer and review data are generated in JSON format, processed with Pandas, an
 * Sales by Category
 * Sales by City
 
+
 ### Customer Analytics
 
 * Total Customers
 * Highest Value Customers
 * Customer Membership Analysis
+
+### Customer Activity Segmentation
+
+Customers are segmented based on their latest purchase activity to help identify engagement levels and potential retention risks.
+
+## Customer segments:
+
+* Active Customers (0-30 days since last purchase)
+* Normal Customers (31-60 days since last purchase)
+* Risk Customers (60+ days since last purchase)
+
+This analysis helps monitor customer activity and identify customers who may require retention campaigns.
 
 ### Product Analytics
 
@@ -45,6 +58,7 @@ Customer and review data are generated in JSON format, processed with Pandas, an
 * City Filter
 * Date Range Filter
 * Product Filter
+
 
 
 ## Technologies Used
@@ -109,4 +123,6 @@ streamlit run app.py
 
 ![Sales Overview](images/sales_overview.png)
 
+### Customer Activity Segmentation
 
+![Customer Activity Segmentation](images/customer_activity_segmentation.png)
