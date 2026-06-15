@@ -11,6 +11,8 @@ load_dotenv()
 DATABASE_URL = os.getenv("DATABASE_URL")
 engine = create_engine(DATABASE_URL)
 
+
+
 st.set_page_config(page_title="Ecommerce Performance Dashboard", layout="wide")
 
 st.title("Ecommerce Performance Dashboard")
@@ -352,4 +354,124 @@ with row2_col2:
         text="total_sales",
         title="Sales by City",
         color="total_sales",
+
+
     )
+st.divider()
+
+
+# CUSTOMER ACTIVITY SEGMENTATION
+
+
+st.subheader("Customer Activity Segmentation")
+
+rfm_query = f"""
+SELECT
+    c.customer_id,
+    c.name,
+    c.city,
+    c.membership_type,
+    MAX(o.order_date) AS last_order_date,
+    COUNT(DISTINCT o.order_id) AS frequency,
+    ROUND(SUM(o.quantity * p.price)::numeric, 2) AS total_sales
+FROM customers c
+JOIN orders o
+    ON c.customer_id = o.customer_id
+JOIN products p
+    ON o.product_id = p.product_id
+{where_clause}
+GROUP BY
+    c.customer_id,
+    c.name,
+    c.city,
+    c.membership_type;
+"""
+
+rfm_df = pd.read_sql(rfm_query, engine)
+
+if not rfm_df.empty:
+    rfm_df["last_order_date"] = pd.to_datetime(rfm_df["last_order_date"])
+
+    today = pd.Timestamp.today()
+
+    rfm_df["recency"] = (today - rfm_df["last_order_date"]).dt.days
+
+    def customer_segment(recency):
+
+        if recency <= 30:
+            return "Active Customers"
+
+        elif 30 < recency <= 60:
+            return "Normal Customers"
+
+        else:
+            return "Risk Customers"
+
+    rfm_df["segment"] = rfm_df["recency"].apply(customer_segment)
+
+         
+
+else:
+    st.warning("No customer data found for customer activity analysis.")
+
+
+
+segment_df = (
+    rfm_df.groupby("segment")
+    .agg(
+        customers=("customer_id", "count"),
+        total_revenue=("total_sales", "sum")
+    )
+    .reset_index()
+) 
+
+fig_segment = px.bar(
+    segment_df,
+    x="customers",
+    y="segment",
+    orientation="h",
+    text="customers",
+    title="Customers by Segment"
+)
+
+fig_segment.update_traces(
+    textposition="outside"
+)
+
+fig_segment.update_layout(
+    height=420,
+    xaxis_title="Customers",
+    yaxis_title="Segment",
+    showlegend=False
+)
+
+st.plotly_chart(fig_segment, use_container_width=True)
+
+st.subheader("Customer Information by Segment")
+
+selected_segment = st.selectbox(
+    "Filter by Segment",
+    ["All"] + sorted(rfm_df["segment"].unique().tolist())
+)
+
+if selected_segment == "All":
+    filtered_rfm_df = rfm_df
+else:
+    filtered_rfm_df = rfm_df[
+        rfm_df["segment"] == selected_segment
+    ]
+
+st.dataframe(
+    filtered_rfm_df[
+        [
+            "name",
+            "city",
+            "membership_type",
+            "recency",
+            "frequency",
+            "total_sales",
+            "segment"
+        ]
+    ],
+    use_container_width=True
+)
