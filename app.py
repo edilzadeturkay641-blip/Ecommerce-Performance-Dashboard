@@ -250,9 +250,9 @@ st.plotly_chart(fig_customers, use_container_width=True)
 st.divider()
 
 
-# =========================
+
 # SALES BY CATEGORY
-# =========================
+
 
 category_query = f"""
 SELECT
@@ -291,9 +291,9 @@ fig_category.update_layout(
     height=470, legend_title="Category", margin=dict(l=20, r=20, t=70, b=20)
 )
 
-# =========================
+
 # SALES BY CITY
-# =========================
+
 
 city_query = f"""
 SELECT
